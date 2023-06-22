@@ -1,0 +1,37 @@
+.bottom_header_1 ul li{
+  font-weight: 700;
+}
+.bottom_header_1 ul li:hover {
+background-color: white;
+color: rgb(164, 241, 10);
+}
+
+.name:after{
+position: absolute;
+right: 0;
+top: 14px;
+height: 20px;
+width: 1px;
+background: #000000;
+opacity: 0.1;
+content: "";
+}
+.spacing{
+  letter-spacing: 6px;
+}
+.font-style{
+ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.mid ul li:hover{
+ border-bottom: 2px solid rgb(49, 255, 49);
+ 
+}
+
+.Usefullinks li{
+margin-top: 15px;
+}
+
+.items_name li {
+margin-top: 2px;
+}

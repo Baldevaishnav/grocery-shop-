@@ -1,0 +1,23 @@
+.checkout input{
+    border: 1px solid rgb(208, 207, 207);
+      border-radius: 4px;
+      color: gray;
+      outline: none;
+      
+}
+::placeholder{
+     color: gray;
+}
+.border_bottom{
+    border-bottom: 1px solid rgb(217, 212, 212);
+    padding-bottom: 12px;
+    
+}
+.tbl tr{
+margin-top: 10px;
+    
+}
+.input_checkbox{
+    height: 14px;
+    width: 14px;
+}
